@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek Sharma
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS and ReactJS
+- 🌱 I’m currently learning Web Technologies.........
 - 📫 How to reach me -- svivek301999@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
